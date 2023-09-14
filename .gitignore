@@ -1,0 +1,9 @@
+# folders
+dist
+build
+/node_modules
+/docs/.vitepress/cache
+/test/
+
+# files
+.DS_Store

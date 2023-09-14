@@ -1,0 +1,14 @@
+{
+  "name": "lfw212",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs --port 8080"
+  },
+  "devDependencies": {
+    "vitepress": "latest"
+  }
+}
